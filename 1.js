@@ -1,5 +1,5 @@
-var a="HELLO"
-var y = "DEEPANSHU TIBREWAL";
+var a="HI"
+var y = " I AM DEEPANSHU TIBREWAL";
 var x = "this JS file is linked with HTML page";
 var z = y+" "+ x;
 console.log(x);
